@@ -13,12 +13,17 @@ git clone https://github.com/YezzizzeY/claude.git
 cd claude
 ```
 
+## 文档
+
+- [基于多智能体的交易系统：文献综述与开放问题](multi-agent-trading-survey.md)
+
 ## 目录结构
 
 ```
 .
 ├── .gitattributes
-└── README.md
+├── README.md
+└── multi-agent-trading-survey.md
 ```
 
 ## 贡献
